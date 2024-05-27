@@ -6,66 +6,66 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "",
+        enunciado: " Marina está planejando uma festa surpresa para seu melhor amigo, João. Depois de decidir organizar uma festa temática dos anos 80, ela pede ajuda a seus amigos para os preparativos. Eles poderiam:",
         alternativas: [
             {
-                texto: "",
-                afirmacao: ""
+                texto: " Decorar a festa com elementos clássicos dos anos 80, como neon e fitas cassete.",
+                afirmacao: " "
             },
             {
-                texto: "",
+                texto: "Transformar a festa em um mistério interativo, onde os convidados teriam que resolver enigmas para encontrar o local da festa.",
                 afirmacao: ""
             }
         ]
     },
     {
-        enunciado: "",
+        enunciado: " Enquanto preparavam os detalhes da festa, Marina e seus amigos, João, Ana e Pedro, encontram um mapa do tesouro na praia. Eles decidem seguir o mapa antes da festa para adicionar um toque emocionante ao evento. Eles poderiam:",
         alternativas: [
             {
-                texto: "",
+                texto: "Seguir o mapa tradicionalmente, cavando na areia onde o X estava marcado.",
                 afirmacao: ""
             },
             {
-                texto: "",
+                texto: "Usar um detector de metal para tentar encontrar o tesouro mais rapidamente, mesmo que isso quebrasse um pouco a tradição.",
                 afirmacao: ""
             }
         ]
     },
     {
-        enunciado: "",
+        enunciado: " Durante a busca pelo tesouro, o grupo se depara com um desafio: encontrar a chave de um baú trancado que supostamente guarda o tesouro. Para se preparar para o concurso de fantasias na escola, eles decidem incorporar elementos do mapa do tesouro em suas fantasias. Eles poderiam:",
         alternativas: [
             {
-                texto: "",
+                texto: "Criar fantasias com elementos piratas, como chapéus de capitão e mapas do tesouro.",
                 afirmacao: ""
             },
             {
-                texto: "",
+                texto: "Escolher fantasias baseadas nos enigmas do mapa, como exploradores em busca de tesouros perdidos.",
                 afirmacao: ""
             }
         ]
     },
     {
-        enunciado: "",
+        enunciado: "Após desvendarem os enigmas do mapa, o grupo finalmente encontra o tesouro - uma passagem secreta para a Terra dos Doces! Eles decidem fazer uma pausa nas festividades da festa surpresa e explorar este novo mundo incrível juntos. Eles poderiam:",
         alternativas: [
             {
-                texto: "",
+                texto: "Construir uma casa feita de chocolate e marshmallow para se esconder dos guardiões da terra dos doces.",
                 afirmacao: ""
             },
             {
-                texto: "",
+                texto: "Partir em uma missão para encontrar o lendário rio de chocolate, onde dizem que todos os desejos se tornam realidade.",
                 afirmacao: ""
             }
         ]
     },
     {
-        enunciado: "",
+        enunciado: "Depois de voltarem da Terra dos Doces com bolsos cheios de doces e memórias incríveis, Marina e seus amigos decidem encerrar as festividades da festa surpresa com uma viagem ao parque de diversões local, onde relembram suas aventuras e planejam as próximas. Eles poderiam:",
         alternativas: [
             {
-                texto: "",
+                texto: "Começar com as montanhas-russas mais radicais para sentir a adrenalina desde o início.",
                 afirmacao: ""
             },
             {
-                texto: "",
+                texto: "Iniciar com os jogos de habilidade e tentar ganhar prêmios divertidos para levar para casa como lembrança.",
                 afirmacao: ""
             }
         ]
