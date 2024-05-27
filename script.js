@@ -75,7 +75,7 @@ const perguntas = [
 
 let atual = 0;
 let perguntaAtual;
-let historiaFinal = "";
+let historiaFinal = "Após embarcarem em uma jornada cheia de surpresas e aventuras, Marina e seus amigos descobriram que a verdadeira magia está na amizade e na união. Desde o planejamento da festa surpresa até a busca pelo tesouro na praia e a aventura na Terra dos Doces, cada momento foi marcado pela colaboração e pela criatividade do grupo. Ao incorporar elementos dos enigmas do mapa do tesouro em suas fantasias para o concurso de fantasias e explorar juntos a Terra dos Doces, eles fortaleceram seus laços de amizade e compartilharam momentos inesquecíveis. Ao encerrar as festividades com uma viagem ao parque de diversões, eles celebraram suas conquistas e planejaram novas aventuras, cientes de que, com amizade e imaginação, cada dia pode se tornar uma jornada emocionante e repleta de diversão.";
 
 function mostraPergunta() {
     if (atual >= perguntas.length) {
